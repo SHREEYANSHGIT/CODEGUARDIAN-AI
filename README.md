@@ -1,6 +1,11 @@
 # CodeGuardian AI
 
 > **Multi-Agent AI Code Review Platform with Automated GitHub PR Gatekeeping.**
+> Created by **Shreeyansh Asati** — AI/ML Engineer  
+> [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shreeyansh-asati-18shreey/)  
+> [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/SHREEYANSHGIT)  
+> [![Live Backend](https://img.shields.io/badge/Backend-Render-46E3B7)](https://medical-rag-api-fl26.onrender.com/health)  
+> [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 CodeGuardian AI listens for GitHub pull-request webhooks, runs a multi-agent
 LLM review pipeline (powered by Groq + Gemini with automatic fallback),
