@@ -1,6 +1,6 @@
 # CodeGuardian AI
 
-> **Multi-Agent AI Code Review Platform with Automated GitHub PR Gatekeeping.**
+> **Multi-Agent AI Code Review Platform with Automated GitHub PR Gatekeeping.**<br>
 > Created by **Shreeyansh Asati** — AI/ML Engineer  
 > [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shreeyansh-asati-18shreey/)  
 > [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/SHREEYANSHGIT)  
